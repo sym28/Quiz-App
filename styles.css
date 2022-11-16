@@ -1,0 +1,31 @@
+
+.col:hover {
+  cursor: pointer;
+  border: 1px solid blue;
+}
+
+
+#quiz-card {
+  visibility: hidden;
+
+}
+
+#accordionExample {
+  visibility: hidden;
+}
+
+.accordion-button {
+  font-weight: 700;
+}
+
+.fade-out {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s cubic-bezier(0.2, 1, 0.3, 1), visibility 0s 0.5s;
+}
+
+.fade-in {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.5s cubic-bezier(0.2, 1, 0.3, 1);
+}

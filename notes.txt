@@ -1,0 +1,26 @@
+Quiz App
+
+
+-Function
+Allows user to answer multiple choice questions from 3 different topics - html, css, javascript.
+
+
+-Layout
+
+1) Initial view: Option to choose which topic to be quizzed
+  - 3 cards with topics
+
+2) change layout to quiz view.
+  -add a transition effect when changing layout
+
+3) card view with question on top and 4 answer options
+
+4) Progress bar at top of the card showing progression e.g. 3/10 answered
+5) at the end of the quiz, display accordion correct/incorrect answers
+6) give user option of choosing a different topic or try again
+
+
+-Other
+1) store questions in array on a different file
+2) responsive layout
+3)
